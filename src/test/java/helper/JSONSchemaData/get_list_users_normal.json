@@ -1,0 +1,72 @@
+[
+  {
+    "id": 6777824,
+    "name": "Vimala Agarwal IV",
+    "email": "agarwal_iv_vimala@hegmann.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 6777823,
+    "name": "Kailash Gowda",
+    "email": "gowda_kailash@connelly.test",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 6777822,
+    "name": "Msgr. Bhasvan Dutta",
+    "email": "dutta_bhasvan_msgr@bauch-schneider.test",
+    "gender": "male",
+    "status": "inactive"
+  },
+  {
+    "id": 6777821,
+    "name": "Balagovind Iyer",
+    "email": "iyer_balagovind@rau.example",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 6777820,
+    "name": "Anish Marar",
+    "email": "marar_anish@damore-wolff.test",
+    "gender": "female",
+    "status": "inactive"
+  },
+  {
+    "id": 6777819,
+    "name": "Ujjawal Sinha",
+    "email": "ujjawal_sinha@rath.example",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 6777818,
+    "name": "Gajabahu Ahluwalia",
+    "email": "ahluwalia_gajabahu@heathcote.example",
+    "gender": "male",
+    "status": "active"
+  },
+  {
+    "id": 6777817,
+    "name": "Mahesh Sharma",
+    "email": "mahesh_sharma@gutmann-gusikowski.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 6777816,
+    "name": "Swara Jha",
+    "email": "jha_swara@lang.test",
+    "gender": "female",
+    "status": "active"
+  },
+  {
+    "id": 6777815,
+    "name": "Tanushree Butt VM",
+    "email": "tanushree_vm_butt@bosco-nikolaus.example",
+    "gender": "male",
+    "status": "inactive"
+  }
+]
